@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  text-align:center;
+}
+
+h1 {
+  margin-top: 0;
+  padding-top: 80px;
+  text-align: center;
+  font-family: 'Sacramento', cursive;
+  font-size: 2em;
+  color: #66BFBF
+
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  color: #66BFBF
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E
+}
+hr{
+  width: 5%;
+  margin:100px auto;
+  border: dotted 8px  ;
+  border-bottom: none ;
+  border-left: none ;
+  border-right:  none ;
+  border-color: lightgray;
+}
+span{
+  text-decoration: underline;
+  line-height: 2;
+}
+a{
+  color:#11999E
+}
+.Top-Container {
+  background-color: #E4F9F5;
+/*  width: 200px;*/
+  height: 600px;
+/* border: solid 10px;*/
+  padding-bottom: 40px;
+}
+.Cloud1{
+position: absolute;
+left:70%;
+}
+.Cloud2{
+  position: absolute;
+  left:20%;
+  bottom: 65%
+}
+.Mount{
+
+
+}
+.appel{
+  width: 20%;
+  margin: 80px auto;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+.Webdev-skills{
+  border-radius: 200px;
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+#img-citadelle{
+
+  border-radius: 300px;
+}
+.brico{
+  width: 25%;
+  float: right;
+  border-radius: 300px;
+  margin-left: 30px;
+}
+.btn{
+  color: white;
+  background-color: #66BFBF;
+  border: none;
+  border-radius: 3px;
+  font-size: 16px;
+  height: 35px;
+  margin-top: 20px;
+}
+.btn:hover{
+  background-color: lightblue;
+  font-size: 20px;
+  color: black;
+ font-weight : bold ;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  height: 150px;
+  margin-top: 50px;
+
+}
+.copy_right{
+  color: #EAF6F6;
+  position: relative;
+  top: 45px;
+}
+.footer-link{
+  display: inline-block;
+  padding-left: 20px;
+  position: relative;
+  top: 25px;
+  text-decoration: none;
+}
+.skills{
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.prod-name{
+  font-weight: bold;
+}
+#Metier{
+  font-size: 2.5rem;
+  font-weight: normal;
+}
